@@ -22,18 +22,7 @@ OPENAI_API_KEY=your_api_key_here
 
 ## Usage
 
-### As a Library
-
-```python
-from agent import Agent
-
-agent = Agent()
-response = agent.process_task("Your task description here")
-```
-
-### From the Command Line
-
-You can also use the tool directly from the command line:
+This tool is designed to be used from the command line:
 
 ```bash
 python agent.py
